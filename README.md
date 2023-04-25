@@ -16,7 +16,7 @@ python3.10 -m venv env
 2. no **Linux**:
 ```
 cd calc_primes
-virtualenv -p /usr/bin/python3.7 venv 
+virtualenv -p /usr/bin/python3.10 venv 
 source venv/bin/activate
 venv/bin/python3 setup.py install
 ```
