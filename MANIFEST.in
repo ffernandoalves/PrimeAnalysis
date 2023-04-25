@@ -1,0 +1,4 @@
+include README.md
+
+include primos/site.txt 
+include primos/txt * 
